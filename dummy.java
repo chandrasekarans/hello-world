@@ -94,7 +94,7 @@ public class MyServicesTest extends BaseTest {
 		}
 	}
 	
-	////@AfterMethod
+	@AfterMethod
 	public void testInitActivity() throws Exception {
 		try {
 			
@@ -106,7 +106,7 @@ public class MyServicesTest extends BaseTest {
 	 * 
 	 * Added assertion and validated locally.
 	 */
-
+1
 	@Test(priority=-1)
 	public void seriesCompletion_RLTOQA_28623() throws Exception {
 		try {
@@ -509,8 +509,7 @@ public class MyServicesTest extends BaseTest {
 
 		}
 	}
-
-
+opps the middle line
 
 	public static void moveAndClick(WebDriver driver, WebElement element) throws Exception {
 		Actions action = new Actions(driver);
@@ -606,3 +605,4 @@ public class MyServicesTest extends BaseTest {
 		}	
 	}
 }
+Bud This is the last line
