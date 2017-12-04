@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/bin/sh
+python .git/hooks/pre-commit.py
 # -*- coding: cp1252 -*-
 import git
 import os
