@@ -1,4 +1,4 @@
-#!/bin/sh/env python
+#C:\Users\csrinivasan\Desktop\dummy\hello-world\pre-commit
 # -*- coding: cp1252 -*-
 import git
 import os
