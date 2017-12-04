@@ -94,7 +94,7 @@ public class MyServicesTest extends BaseTest {
 		}
 	}
 	
-	//@AfterMethod
+	////@AfterMethod
 	public void testInitActivity() throws Exception {
 		try {
 			
