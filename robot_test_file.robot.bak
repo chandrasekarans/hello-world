@@ -41,7 +41,7 @@ RLTOQA-18324:Verify the Cancel Reason Code Drop Down Menu Values
 
 RLTOQA-18325:Verify the Disconnect Reason Code Drop Down Menu Values
     [Documentation]    Regression
-     Regression
+    [Tags]    Regression
     Login To RialtoSp
     Navigate To Link    Customer Service Tool
     Enter Input    companyName    AutomationCustomerFinal
